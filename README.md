@@ -45,7 +45,7 @@ Follow these steps to install and run the bot:
 
 5. Start the bot:
    ```bash
-   node index.js
+   node Index.js
    ```
 
 The bot should now be running and ready to welcome new members!

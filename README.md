@@ -19,12 +19,12 @@ Follow these steps to install and run the bot:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/kalue05/welcomer-bot-template.git
+   git clone https://github.com/kalue05/Welcomer-Bot-Template.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd welcomer-bot-template
+   cd Welcomer-Bot-Template
    ```
 
 3. Install dependencies:
